@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lab 6 - Connect Four View:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab_6___Connect_Four_View_jar2</output-path>
+    <root id="archive" name="Lab 6 - Connect Four View.jar">
+      <element id="module-output" name="Lab 6 - Connect Four View" />
+      <element id="file-copy" path="$PROJECT_DIR$/res/pink_win.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/res/orange_win.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/res/tie_tsumehodai.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/res/pink.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/res/orange.png" />
+    </root>
+  </artifact>
+</component>
